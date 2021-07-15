@@ -16,4 +16,5 @@ D) Decomposition by pixel’s intensity of the blurred image
 I changed the pixels with high values to white pixels, then I changed the pixels with density 0 to white
 (255) to change the background to white. Then, to highlight the lines that make up the outer surface of
 the picture, I synced the pixels with a certain value range to ImgFinal.
+
 ![Screenshot_3](https://user-images.githubusercontent.com/55910759/125819085-29cdfb21-fd6f-4755-8e78-8c24a6b9cd6f.png)
